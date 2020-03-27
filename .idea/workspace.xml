@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="7604373f-0fb1-445b-9937-f5e7af59e520" name="Default Changelist" comment="" />
 =======
     <list default="true" id="7604373f-0fb1-445b-9937-f5e7af59e520" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+>>>>>>> branch2
+=======
+    <list default="true" id="7604373f-0fb1-445b-9937-f5e7af59e520" name="Default Changelist" comment="" />
 >>>>>>> branch2
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,7 @@
       <workItem from="1585146517257" duration="11000" />
       <workItem from="1585301773510" duration="269000" />
       <workItem from="1585302502659" duration="82000" />
+      <workItem from="1585306647539" duration="1809000" />
     </task>
     <servers />
   </component>
